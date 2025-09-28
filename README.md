@@ -27,3 +27,4 @@ A simple calculator implemented in Oracle PL/SQL supporting basic arithmetic ope
 
 
 ## 🔗 Output Screenshots
+![Output](https://github.com/codewithvikas96-ui/plsql-calculator/blob/c2ea27f286805ba1bdfec2014454dfdcc58e3eec/Screenshot%202025-09-28%20164645.png)
