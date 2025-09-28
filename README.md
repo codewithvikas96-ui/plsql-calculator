@@ -19,7 +19,7 @@ A simple calculator implemented in Oracle PL/SQL supporting basic arithmetic ope
 ## 🚀 How to Run
 1. Open Oracle SQL*PLUS or any PL/SQL IDE(like Oracle SQL Developer).
 2. Enable Output:
-  ```bash
+  ```sql
    SET SERVEROUTPUT ON;
   ```
 3. Copy and run the calculator.sql script.
