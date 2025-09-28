@@ -39,9 +39,8 @@ A simple calculator implemented in Oracle PL/SQL supporting basic arithmetic ope
   ```sql
   SET SERVEROUTPUT ON;
  ```
-<br>
-5. Enter your filename
-```
+ 5. Enter your filename
+```sql
   @calculator
 ```
   
