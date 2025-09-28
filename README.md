@@ -34,12 +34,16 @@ A simple calculator implemented in Oracle PL/SQL supporting basic arithmetic ope
   ```sql
   sqlplus
   ```
-  Enter username(by default **system**) and password .
+  Enter username(by default **system**) and password .<br>
   Enable Output:
   ```sql
   SET SERVEROUTPUT ON;
-  @yourfilename
-  ```
+ ```
+<br>
+5. Enter your filename
+```
+  @calculator
+```
   
 
 
